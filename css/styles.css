@@ -11310,3 +11310,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+/*CAMBIOS EN EL HEADER*/
+
+
+#mainNav {
+  background-color: rgba(255, 255, 255, 0.5); /* Blanco con 90% de opacidad */
+  transition: background-color 0.5s ease; /* Transición suave para cualquier cambio */
+}
